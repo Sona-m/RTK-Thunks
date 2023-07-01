@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "Lena Brakus",
+      "id": 2
+    },
+    {
+      "name": "Danny Ortiz",
+      "id": 11
+    },
+    {
+      "name": "Nicolas Crona",
+      "id": 12
+    },
+    {
+      "name": "Betty Klein",
+      "id": 13
+    },
+    {
+      "name": "Clifford Hirthe",
+      "id": 14
+    },
+    {
+      "name": "Danielle Wunsch",
+      "id": 16
+    },
+    {
+      "name": "Dawn Schulist",
+      "id": 17
+    }
+  ],
+  "albums": [],
+  "photos": []
+}
