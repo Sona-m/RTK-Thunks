@@ -1,18 +1,6 @@
 {
   "users": [
     {
-      "name": "Lena Brakus",
-      "id": 2
-    },
-    {
-      "name": "Danny Ortiz",
-      "id": 11
-    },
-    {
-      "name": "Nicolas Crona",
-      "id": 12
-    },
-    {
       "name": "Betty Klein",
       "id": 13
     },
@@ -27,8 +15,152 @@
     {
       "name": "Dawn Schulist",
       "id": 17
+    },
+    {
+      "name": "Dr. Herbert Rempel",
+      "id": 18
     }
   ],
-  "albums": [],
-  "photos": []
+  "albums": [
+    {
+      "userId": 16,
+      "title": "Licensed Wooden Hat",
+      "id": 5
+    },
+    {
+      "userId": 13,
+      "title": "Licensed Metal Fish",
+      "id": 6
+    },
+    {
+      "userId": 17,
+      "title": "Intelligent Plastic Salad",
+      "id": 7
+    },
+    {
+      "userId": 13,
+      "title": "Generic Frozen Chair",
+      "id": 8
+    },
+    {
+      "userId": 13,
+      "title": "Incredible Frozen Ball",
+      "id": 9
+    },
+    {
+      "userId": 14,
+      "title": "Fantastic Soft Bacon",
+      "id": 10
+    },
+    {
+      "userId": 13,
+      "title": "Unbranded Granite Salad",
+      "id": 11
+    },
+    {
+      "userId": 13,
+      "title": "Handcrafted Plastic Chips",
+      "id": 12
+    },
+    {
+      "userId": 13,
+      "title": "Bespoke Plastic Towels",
+      "id": 13
+    },
+    {
+      "userId": 13,
+      "title": "Refined Granite Fish",
+      "id": 14
+    },
+    {
+      "userId": 13,
+      "title": "Generic Cotton Car",
+      "id": 15
+    },
+    {
+      "userId": 13,
+      "title": "Incredible Soft Cheese",
+      "id": 16
+    },
+    {
+      "userId": 13,
+      "title": "Modern Soft Chips",
+      "id": 17
+    },
+    {
+      "userId": 13,
+      "title": "Fantastic Cotton Soap",
+      "id": 18
+    },
+    {
+      "userId": 13,
+      "title": "Elegant Plastic Tuna",
+      "id": 19
+    },
+    {
+      "userId": 13,
+      "title": "Intelligent Soft Bacon",
+      "id": 20
+    },
+    {
+      "userId": 13,
+      "title": "Incredible Plastic Bacon",
+      "id": 21
+    }
+  ],
+  "photos": [
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=4278226335563776",
+      "id": 6
+    },
+    {
+      "url": "https://loremflickr.com/150/150/abstract?lock=7855977296560128",
+      "id": 8
+    },
+    {
+      "albumId": 9,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2182293871394816",
+      "id": 13
+    },
+    {
+      "albumId": 9,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7331590371803136",
+      "id": 14
+    },
+    {
+      "albumId": 8,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5835533051756544",
+      "id": 17
+    },
+    {
+      "albumId": 8,
+      "url": "https://loremflickr.com/150/150/abstract?lock=8808329551806464",
+      "id": 18
+    },
+    {
+      "albumId": 8,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2921911189241856",
+      "id": 19
+    },
+    {
+      "albumId": 8,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5550795959304192",
+      "id": 20
+    },
+    {
+      "albumId": 6,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5585924966580224",
+      "id": 21
+    },
+    {
+      "albumId": 6,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6666534212599808",
+      "id": 22
+    },
+    {
+      "albumId": 6,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2734986035724288",
+      "id": 24
+    }
+  ]
 }

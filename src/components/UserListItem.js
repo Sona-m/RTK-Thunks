@@ -15,14 +15,14 @@ const UserListItem = ({ user }) => {
 
   const header = (
     <>
-      <Button className="ml-5 mr-5" onClick={() => handleDeleteClick(user)}>
+      <Button className="ml-5 mr-5 bg-black text-white" onClick={() => handleDeleteClick(user)}>
         <GoXCircleFill />
       </Button>
       {user.name}
     </>
   );
   return (
-    <Expandable header={header}>
+    <Expandable header={header} className="mx-5">
       <AlbumsList user={user} />
     </Expandable>
   );

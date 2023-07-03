@@ -25,15 +25,15 @@ const UserList = () => {
     content = <div>Error fetching data</div>;
   } else {
     content = data.map((user) => {
-      return <UserListItem key={user.id} user={user} />;
+      return <UserListItem key={user.id} user={user} className= "mx-10"/>;
     });
   }
 
   return (
     <div>
-      <div className="flex flex-row justify-between m-3 items-center">
+      <div className="flex flex-row justify-between m-3 items-center bg-black text-white py-5">
         <h1 className="m-2 text-xl">List of Users</h1>
-        <Button onClick={handleAddUser}>+ Add User</Button>
+        <Button onClick={handleAddUser} className="text-white bg-black mr-10">+ Add User</Button>
       </div>
       {content}
     </div>
